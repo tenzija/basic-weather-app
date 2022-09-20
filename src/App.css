@@ -33,12 +33,13 @@ body {
   text-align: center;
   padding-bottom: 10px; 
   border-radius: 20px;
+  font-weight: 700;
 } 
 
 
 .weather-description h3 {
   color:rgb(21, 28, 28);
-  font-weight: 400;  
+  font-weight: 700;  
   background-color: #974063;
   border-radius: 20px;
   padding: 10px;
@@ -60,7 +61,7 @@ body {
 }
 
 .location {
-  font-weight: 400;
+  font-weight: 700;
 }
 
 
