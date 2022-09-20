@@ -82,11 +82,11 @@ function App() {
         </div>
         <div>
         <h3>TEMPERATURE</h3>
-        <p>{allData.temperature}°F</p>
+        <p>{allData.temperature}°C</p>
         </div>
         <div>
             <h3>MIN TEMPERATURE</h3>
-              <p>{allData.minTemp}°F</p>
+              <p>{allData.minTemp}°C</p>
                  </div>
                </div>
              </div>
